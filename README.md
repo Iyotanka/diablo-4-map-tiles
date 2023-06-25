@@ -1,6 +1,6 @@
 # diablo-4-map-tiles
 
-tiles are 512x512
+tilesets are now 512x512 and 256x256
 
 easily use in leafletjs
 
