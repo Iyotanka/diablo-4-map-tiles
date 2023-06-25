@@ -4,6 +4,8 @@ tiles are 512x512
 
 easily use in leafletjs
 
+these are the updated tiles, some maps don't show tree of whispers and other regions accurately 
+
 {z}{y}{x} directory structure
 png and webp
 host/tiles/6/4/4.png
